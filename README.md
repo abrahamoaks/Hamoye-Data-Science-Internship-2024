@@ -1,4 +1,4 @@
-# Hamoye Data Science Internship 2024  
+# Hamoye Data Science Internship 2024 - Abraham Obianke 
 
 Welcome to the repository documenting my journey through the **Hamoye Data Science Internship 2024**! This experience has been nothing short of transformative, providing me with the opportunity to deepen my data science expertise, tackle real-world problems, and collaborate with a diverse and talented community of data enthusiasts.  
 
