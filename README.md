@@ -39,5 +39,5 @@ Beyond technical expertise, this internship taught me resilience, time managemen
 
 A heartfelt thank you to Hamoye for designing such an impactful program and to my mentors and peers for their invaluable support throughout this journey.  
 
-## Contact
+## 📬 Contact
 I'm **Abraham Obianke**. For any enquiries, feedbacks, partnerships or collaborations feel free to [Connect with me on LinkedIn](https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or send me an Email via  [abrahamoaks@gmail.com](mailto:your_email@example.com).
